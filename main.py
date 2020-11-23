@@ -6,7 +6,7 @@ from PyQt5.QtGui import QPainter, QColor
 from random import choice
 
 SIZE = [i for i in range(250)]
-COLOR = [i for i in range(250)]
+COLOR = [i for i in range(255)]
 
 
 class MyWidget(QMainWindow, Ui_MainWindow):
